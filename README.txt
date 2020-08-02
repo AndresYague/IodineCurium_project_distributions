@@ -2,8 +2,8 @@
 ESS and tau_eq distributions for the Iodine and Curium project
 
 This code was developed by:
+Blanka Világos (https://github.com/vblanka24)
 Andrés Yagüe López (https://github.com/AndresYague)
-Blanka Világos
 
 ==========How to use=========
 
